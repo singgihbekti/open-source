@@ -20,9 +20,10 @@
   -->
 
 [Virtual Interns]()
+![This is a alt text.](https://img.icons8.com/ios-filled/25/000000/project-setup--v2.png "Project") Open-source Projects
 
   * [**Introduction / First Steps**](pages/internship.md#First_Step)
-  * ![This is a alt text.](https://img.icons8.com/ios-filled/15/000000/faq.png "FAQ") [ FAQ](pages/faq.md)
+  * ![This is a alt text.](https://img.icons8.com/ios-filled/15/000000/faq.png "FAQ") FAQ (pages/faq.md)
   * ![This is a alt text.](https://img.icons8.com/ios-filled/15/000000/in-progress.png "Progress") [ Progress Tracker](pages/progress.md)
   - - - -
   * [Step 0 - Introductory Steps](pages/internship.md#Step_0_-_Introductory_steps)
