@@ -1,4 +1,4 @@
-# <img src="https://img.icons8.com/ios-filled/40/000000/in-progress.png"/>  Progress Tracker
+# ![This is a alt text.](https://img.icons8.com/ios-filled/40/000000/in-progress.png "Progress")  Progress Tracker
 
 **NOTE: Progress tracker helps you in monitoring how much PR you send in [this](https://github.com/kulkultech/open-source) repo**
 
